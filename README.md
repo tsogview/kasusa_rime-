@@ -1,6 +1,7 @@
 # kasusa_rime-
 ## 我的rime输入法配置文件！
 - 「小狼毫」图片：
+
   ![weasel](https://wx3.sinaimg.cn/mw690/006rgJELly1fzvubcu6qtj3064081aa2.jpg)
 * 17:05 2019/2/5
 
