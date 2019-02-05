@@ -1,0 +1,13 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.13.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Tue Feb  5 17:40:28 2019"
+  rime_version: 1.4.0
+patch:
+  corner_radius: 5
+  inline_preedit: true
+  "style/color_scheme": aqua
+  "style/font_face": "华文中宋"
+  "style/font_point": 15
+  "style/horizontal": false
